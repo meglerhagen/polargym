@@ -54,6 +54,7 @@
 	    animateIn: 'fadeIn',
       mouseDrag: false,
       touchDrag: true,
+      pullDrag: false,
 	    nav:false,
 	    autoplayHoverPause: false,
 	    items: 1,
